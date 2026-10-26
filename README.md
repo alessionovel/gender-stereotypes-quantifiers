@@ -10,4 +10,4 @@ The proposed experiment:
 2. shows sentences like *"Many of the doctors are female"* next to images of 10–30 people with varying proportions of men and women, and asks whether the sentence is true;
 3. estimates each participant's threshold for *many* with Ramotowska's three-parameter logistic model, and checks whether the thresholds depend on, and cluster according to, the stereotypes participants hold.
 
-The full proposal, with background, research questions, expected results and references, is in [SC_project.pdf](SC_project.pdf).
+The full proposal, with background, research questions, expected results and references, is in [proposal.pdf](proposal.pdf).
